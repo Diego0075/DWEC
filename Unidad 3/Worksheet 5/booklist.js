@@ -88,10 +88,5 @@ class Booklist {
 }
 
 booklist =new Booklist();
-booklist.addbook(new Book('L´zaro','Realista','Anonimo',true,Date.now));
-booklist.addbook(new Book('Percy Jackson','Mitología','Rick Riordan',true,Date.now));
-booklist.addbook(new Book('php','terror','belen',true,Date.now));
-booklist.addbook(new Book('interfaces','fantasia','paqui',false,Date.now));
-booklist.addbook(new Book('java','mazmorras','manolo',false,Date.now));
 
 
